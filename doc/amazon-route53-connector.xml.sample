@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(amazon-route53:greet) -->
+    <amazon-route53:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(amazon-route53:greet) -->
